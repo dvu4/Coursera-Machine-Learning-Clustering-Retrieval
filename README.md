@@ -1,1 +1,1 @@
-# ml_clustering_retrieval
+# Coursera-Machine-Learning-Clustering & Retrieval
